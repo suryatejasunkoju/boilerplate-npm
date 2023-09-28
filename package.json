@@ -5,6 +5,7 @@
 	},
 	"main": "server.js",
 	"author": "surya teja",
+	"description": "A project that does something awesome",
 	"scripts": {
 		"start": "node server.js"
 	},
